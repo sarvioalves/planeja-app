@@ -97,7 +97,7 @@ planeja-app/
 ## 📸 Demonstração
 
 
-![Preview do Planeja App](.public\demonstracao.png)
+![Preview do Planeja App](public/demonstracao.png)
 
 ---
 
